@@ -19,7 +19,7 @@
 | Категория | Технологии / Инструменты |
 |-----------|--------------------------|
 | **Тестирование** | Функциональное тестирование, регрессионное тестирование, smoke-тестирование, тест-дизайн, чек-листы, тест-кейсы, баг-репорты |
-| **API** | Postman (коллекции, тесты, Newman), Swagger, Charles Proxy |
+| **API** | Postman (коллекции, тесты), Swagger, Charles Proxy |
 | **Базы данных** | SQL (PostgreSQL, pgAdmin), написание сложных запросов (JOIN, GROUP BY, подзапросы) |
 | **Контейнеризация** | Docker Desktop (запуск тестовых сред, работа с образами) |
 | **Контроль версий** | Git, GitHub (ветвление, pull requests) |
@@ -94,6 +94,8 @@
 **Артефакты:** 
 Видео и скриншоты https://drive.google.com/drive/folders/1T___vcKirvdwWoFhKw_qkH9G2PAQjMyh?usp=sharing
 
+---
+
 ### 5. Работа с базами данных (SQL, PostgreSQL)
 **Задачи:**  
 - Написать SQL-запросы для проверки данных в тестовой БД.  
@@ -108,4 +110,5 @@
 **Артефакты:**
 Практика SELECT https://docs.google.com/spreadsheets/d/1nsJVcf9FwB-E0pM8vkHwwT039BiX4SQJW6EeV-hAuoo/edit?gid=0#gid=0
 Практика JOINhttps://docs.google.com/spreadsheets/d/1ms4TwUZ1qtSEe3iAFBkVkz4sGVzjelZpJq__k8yf5vg/edit?gid=0#gid=0
+
 ---
