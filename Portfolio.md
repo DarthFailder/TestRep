@@ -10,7 +10,7 @@
 - **Город:** Волгоград (готов к удалённой работе)  
 - **GitHub:** https://github.com/DarthFailder
 - **Telegram:** @DarthFailder
-- **HH.ru https://volgograd.hh.ru/resume/0959fc5eff0fb64bf40039ed1f65677a615179
+- **HH.ru:** https://volgograd.hh.ru/resume/0959fc5eff0fb64bf40039ed1f65677a615179
 
 ---
 
